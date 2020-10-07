@@ -1,0 +1,9 @@
+{
+    "port": 4000,
+    "db_config": {
+    "host": "localhost",
+    "user": "root",
+    "password": "Prash@15",
+    "database": "TESTDATA_DB"
+    }
+}
